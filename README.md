@@ -19,8 +19,8 @@ A repo to give material and resources on hacking/exploiting sex toys. Sex toy ha
 - [https://www.youtube.com/watch?v=tlwXmNnXeSY](https://www.youtube.com/watch?v=tlwXmNnXeSY)
 - [Advanced Security: Hardware/Firmware](https://youtube.com/playlist?list=PLNSDxArwziGYlmOMWQZas4l6gFPE402KM)
 - [PCB Reverse Engineering, HackADay](https://youtu.be/BsftxTbs7MA)
-- [https://youtu.be/YD6ODeER8qM](Intro to hardware security: UART access and SPI firmware extraction
-)
+- [Intro to hardware security: UART access and SPI firmware extraction
+](https://youtu.be/YD6ODeER8qM)
 - []()
 
 ## Wireless Exploitation:
